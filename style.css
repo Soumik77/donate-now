@@ -1,0 +1,285 @@
+    body {
+        font-family: 'Roboto', sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .header-section {
+        background-image: url(images/donation13.jpg);
+        background-repeat: no-repeat;
+        display: flex;
+        height: 40rem;
+        background-size: cover;
+    }
+    
+    .header-section .banner-part {
+        text-align: center;
+        color: white;
+        margin-top: 9rem;
+        width: 100%;
+    }
+    
+    .header-section .banner-part h1 {
+        font-size: 60px;
+        font-weight: bolder;
+    }
+    
+    .header-section .banner-part a {
+        text-decoration: none;
+        background-image: linear-gradient(pink, red);
+        color: white;
+        padding: 8px 18px;
+        font-weight: bold;
+        border-radius: 6px;
+    }
+    
+    .donate-section {
+        display: flex;
+        text-align: center;
+    }
+    
+    .donate-section .head {
+        font-size: 48px;
+        color: rgba(0, 0, 0, 0.685);
+        margin-top: 9%;
+    }
+    
+    .donate-section .para {
+        color: rgba(0, 0, 0, 0.307);
+        font-weight: 200;
+        margin-top: 0.5%;
+    }
+    
+    .donate-section .full-section {
+        width: 100%;
+    }
+    
+    .donate-section .full-section .donation {
+        display: flex;
+        margin-left: 20em;
+        margin-top: 4rem;
+    }
+    
+    .donate-section .full-section .donation .don1 {
+        padding: 1rem 1rem;
+        margin-left: 1.5rem;
+        font-size: 24px;
+        background: rgba(0, 0, 0, 0.038);
+        color: rgba(0, 0, 0, 0.593);
+        border-radius: 4px;
+    }
+    
+    .donate-section .full-section .donation .don2 {
+        padding: 1rem 1rem;
+        margin-left: 1.5rem;
+        font-size: 24px;
+        background: rgba(255, 99, 71, 0.146);
+        color: tomato;
+        border-radius: 4px;
+        border: 2px solid tomato;
+    }
+    
+    .input-field {
+        display: flex;
+    }
+    
+    .input-field .check-box {
+        margin-top: 5%;
+        margin-left: 24%;
+    }
+    
+    .input-field .check-box .text1 {
+        width: 47rem;
+        text-align: center;
+        font-size: 20px;
+        padding-bottom: 0.5rem;
+        padding-top: 0.5rem;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: 2px solid rgba(0, 0, 0, 0.338);
+        color: rgba(0, 0, 0, 0.273);
+    }
+    
+    .button1 {
+        margin-top: 2.5rem;
+        margin-left: 18.7rem;
+    }
+    
+    .button1 a {
+        color: white;
+        background-image: linear-gradient(pink, red);
+        font-size: 20px;
+        padding-top: 0.7rem;
+        padding-bottom: 0.7rem;
+        padding-left: 1.45rem;
+        padding-right: 1.45rem;
+        text-decoration: none;
+        border-radius: 4px;
+    }
+    
+    .donate-plan {
+        margin-top: 8rem;
+        text-align: center;
+    }
+    
+    .donate-plan h1 {
+        font-size: 48px;
+        color: rgba(0, 0, 0, 0.685);
+    }
+    
+    .donate-plan p {
+        color: rgba(0, 0, 0, 0.307);
+        font-weight: 200;
+        margin-top: -1%;
+    }
+    
+    .box-model {
+        display: flex;
+        align-items: center;
+        margin-top: 4rem;
+        margin-left: 5rem;
+    }
+    
+    .one-third {
+        width: 25%;
+        padding: 1.8rem;
+        margin-left: 1.1rem;
+    }
+    
+    .one-third p {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgba(0, 0, 0, 0.44);
+    }
+    
+    .first {
+        height: 12.3rem;
+        background-color: rgba(135, 207, 235, 0.263);
+        border-radius: 4px;
+    }
+    
+    .second {
+        border-radius: 4px;
+        background-color: rgba(255, 192, 203, 0.324);
+    }
+    
+    .third {
+        border-radius: 4px;
+        background-color: rgba(255, 160, 122, 0.254);
+    }
+    
+    .description {
+        display: flex;
+    }
+    
+    .part1 {
+        width: 50%;
+        padding: 4rem;
+        margin-left: 2rem;
+        margin-top: 4rem;
+    }
+    
+    .part1 h1 {
+        font-size: 50px;
+    }
+    
+    .part1 p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        font-weight: light;
+        color: rgba(0, 0, 0, 0.482);
+    }
+    
+    .part2 {
+        width: 50%;
+    }
+    
+    .part2 img {
+        width: 70%;
+        margin-top: 4rem;
+        height: 90%;
+        border-radius: 5px;
+    }
+    
+    .part1 a {
+        color: white;
+        background-image: linear-gradient(pink, red);
+        font-size: 20px;
+        padding-top: 0.7rem;
+        padding-bottom: 0.7rem;
+        padding-left: 1.45rem;
+        padding-right: 1.45rem;
+        text-decoration: none;
+        border-radius: 4px;
+    }
+    
+    .img6 {
+        margin-left: 15%;
+        margin-top: 5rem;
+        width: 60%;
+    }
+    
+    .information {
+        text-align: center;
+    }
+    
+    .information .personal {
+        margin-top: 8rem;
+    }
+    
+    .information h1 {
+        font-size: 48px;
+        margin-top: 2rem;
+    }
+    
+    .information p {
+        color: rgba(0, 0, 0, 0.38);
+    }
+    
+    .mail-section {
+        background-color: rgba(255, 160, 122, 0.283);
+        margin-left: 14rem;
+        margin-right: 14rem;
+        padding: 4rem 12rem;
+    }
+    
+    .mail-section .mail {
+        font-size: 17px;
+        padding-bottom: 0.5rem;
+        padding-top: 0.5rem;
+        background-color: rgba(128, 128, 128, 0.46);
+        width: 20rem;
+        margin-right: -0.3rem;
+        text-align: left;
+        border-radius: 2px;
+    }
+    
+    .mail-section a {
+        color: white;
+        background-color: rgba(255, 0, 0, 0.763);
+        padding-top: 0.7rem;
+        padding-bottom: 0.7rem;
+        padding-left: 1.2rem;
+        padding-right: 1.2rem;
+        text-decoration: none;
+        border-bottom-right-radius: 2px;
+        border-top-right-radius: 2px;
+    }
+    
+    footer {
+        background-color: black;
+        padding: 4rem;
+        margin-top: 4rem;
+    }
+    
+    .foot1 {
+        text-align: center;
+        font-family: 'Splash', cursive;
+        color: tomato;
+    }
+    
+    .foot2 {
+        text-align: center;
+        color: white;
+        font-family: 'Poppins', sans-serif;
+    }
